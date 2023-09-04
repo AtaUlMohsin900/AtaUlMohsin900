@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Ata Ul Mohsin Khalid</h1>
 <h3 align="center">A passionate full stack web developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-sa=i&url=https%3A%2F%2Fkca.com.pk%2F&psig=AOvVaw2X_thrhaAPYWaJZ7MetIVy&ust=1685742520455000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjviO6Fo_8CFQAAAAAdAAAAABAE](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw2X_thrhaAPYWaJZ7MetIVy&ust=1685742520455000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjviO6Fo_8CFQAAAAAdAAAAABA7)">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataulmohin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohin900" /> </p>
 
