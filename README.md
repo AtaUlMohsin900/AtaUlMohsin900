@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataulmohin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohin900" /> </p>
 
-- 🌱 I’m currently learning **Terraform,Jira Software**
+- 🌱 I’m currently learning **Terraform and Jira Software**
 
 - 💬 Ask me about **React,Nextjs,Javascript,Python,Nodejs,**
 
