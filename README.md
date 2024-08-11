@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataulmohin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohin900" /> </p>
 
-- 🌱 I’m currently learning **Dukker, Kubernetes, Ansible**
+- 🌱 I’m currently learning **Docker, Kubernetes, Ansible**
 
-- 💬 Ask me about **React,Nextjs,Javascript,Python,Nodejs**
+- 💬 Ask me about **React,Nextjs,Javascript,Python,Nodejs,**
 
 - 📫 How to reach me **https://ataulmohsin.vercel.app/**
 
