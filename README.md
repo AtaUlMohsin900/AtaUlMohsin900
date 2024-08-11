@@ -2,13 +2,13 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Ata Ul Mohsin Khalid</h1>
-<h3 align="center">A passionate full stack web developer from Pakistan</h3>
+<h3 align="center">A passionate full stack Software developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataulmohin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohin900" /> </p>
 
-- 🌱 I’m currently learning **Docker, Kubernetes, Ansible**
+- 🌱 I’m currently learning **Terraform,Jira Software**
 
 - 💬 Ask me about **React,Nextjs,Javascript,Python,Nodejs,**
 
