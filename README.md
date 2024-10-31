@@ -1,7 +1,7 @@
 ![](https://github.com/AtaUlMohsin900/AtaUlMohsin900/blob/master/software-development%20-%20Copy.png)
 ### Hi there 👋
 
-<h1 align="center">Hi 👋, I'm Ata Ul Mohsin Khalid</h1>
+<h1 align="center">Hi 👋, I'm Ataul Mohsin Khalid</h1>
 <h3 align="center">A passionate full stack Software developer from Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
