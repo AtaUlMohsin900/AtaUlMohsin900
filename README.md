@@ -1,5 +1,5 @@
 ![](https://github.com/AtaUlMohsin900/AtaUlMohsin900/blob/master/software-development%20-%20Copy.png)
-### Hi there 👋
+###
 
 <h1 align="center">Hi 👋, I'm Ataul Mohsin Khalid</h1>
 <h3 align="center">A passionate full stack Software developer from Pakistan</h3>
