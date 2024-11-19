@@ -10,11 +10,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataulmohin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohin900" /> </p>
 
-- 🌱 Now I’ currently learning **Terraform and Jira Software**
-
-- 💬 Ask me about **React,Nextjs,Javascript,Python,Nodejs,**
-
-- 📫 How to reach me **https://ataulmohsin.vercel.app/**
+- 📫 How to reach me ****
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Spring Boot 𝚊𝚗𝚍 𝚆𝚎𝚋 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **𝙳𝚎𝚟𝙾𝚙𝚜 𝚊𝚗𝚍 𝙲𝚘𝚖𝚙𝚎𝚝𝚒𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚐𝚛𝚊𝚖𝚖𝚒𝚗𝚐.**
+- 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **AI & Web 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗𝚝.**
+- 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://ataulmohsin.vercel.app/).
+- 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
+- ⚡ 𝙵𝚞𝚗 𝚏𝚊𝚌𝚝 : **𝙱𝚎𝚜𝚝 𝙿𝚊𝚛𝚝 𝙾𝚏 𝚃𝚑𝚎 𝙹𝚘𝚞𝚛𝚗𝚎𝚢 𝙸𝚜 : *𝙸𝚝 𝙴𝚗𝚍𝚜.***
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -41,6 +43,55 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ataulmohin900&show_icons=true&locale=en" alt="ataulmohin900" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataulmohin900&" alt="ataulmohin900" /></p>
+<br/>
+<br/>
+<h1>
+  Connect With Me
+  <img src="GIF/Handshake.gif" height="25px"/>
+</h1>
+
+<p align="center">
+  <br>
+  <a href="https://www.linkedin.com/in/ata-ul-mohsin-khalid-767159215/" target="_blank">
+    <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
+  </a>
+  <a href="https://www.facebook.com" target="_blank">
+    <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
+  </a>
+  <a href="https://www.instagram.com/" target="_blank">
+    <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
+  </a>
+  <a href="https://twitter.com/" target="_blank">
+    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
+  </a>
+  <a href="https://dev.to/">
+    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"/></code>
+  </a>     
+</p>
+<br/>
+
+<p align="center">
+  <a href="https://www.hackerrank.com/" target="_blank">
+    <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
+  </a>
+
+  <a href="https://ataulmohsin.vercel.app/" target="_blank">
+    <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
+  </a>
+
+  <a href="https://ataulmohsin.vercel.app/" target="_blank">
+    <code><img height="60" width="60" src="SVG/he.svg"/></code>
+  </a>
+
+  <a href="https://ataulmohsin.vercel.app/" target="_blank">
+    <code><img height="60" width="60" src="SVG/cc.svg"/></code>
+  </a>
+  
+  <a href="https://ataulmohsin.vercel.app/" target="_blank">
+    <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
+  </a>
+</p>
+
 <br/>
 <br/>
 
