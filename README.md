@@ -1,7 +1,9 @@
 ![](https://github.com/AtaUlMohsin900/AtaUlMohsin900/blob/master/software-development%20-%20Copy.png)
 ###
 
-<h1 align="center">Hey, <img src="GIF/Hi.gif" width="40px" />, I'm Ataul Mohsin </h1>
+<h1 align="center">Hey</h1>
+ <img src="GIF/Hi.gif" width="40px" />
+ <h2>I'm Ataul Mohsin</h2>
 <img src="GIF/Hi.gif" width="40px" />
 <h3 align="center"> I am an Engineering Leader and a Fullstack Developer based in PK.</h3>
 <p>I have over 02 years of experience working mostly with startups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.</p>
