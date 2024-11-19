@@ -1,10 +1,6 @@
 ![](https://github.com/AtaUlMohsin900/AtaUlMohsin900/blob/master/software-development%20-%20Copy.png)
 ###
-
-<h1 align="center">Hey</h1>
- <img src="GIF/Hi.gif" width="40px" />
- <h2>I'm Ataul Mohsin</h2>
-<img src="GIF/Hi.gif" width="40px" />
+<h1 align="center">Hey<span><img src="GIF/Hi.gif" width="40px" /></span> I'm Ataul Mohsin </h1>
 <h3 align="center"> I am an Engineering Leader and a Fullstack Developer based in PK.</h3>
 <p>I have over 02 years of experience working mostly with startups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.</p>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
@@ -45,3 +41,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ataulmohin900&show_icons=true&locale=en" alt="ataulmohin900" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataulmohin900&" alt="ataulmohin900" /></p>
+<br/>
+<br/>
+
+<div align="center">
+
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+
+</div>
+
+#
+
+![footer](WEBP/footer.webp)
