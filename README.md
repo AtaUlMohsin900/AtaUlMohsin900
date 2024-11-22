@@ -36,7 +36,93 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ataulmohsin900&show_icons=true&locale=en" alt="ataulmohsin900" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataulmohsin900&" alt="ataulmohsin900" /></p>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C643%20hrs%2025%20mins-blue)
 
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-50.9%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 14.2 MB Used in GitHub's Storage 
+ > 
+> 🏆 9,990 Contributions in the Year 2024
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 208 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                16844 commits       █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+🌆 Daytime                25783 commits       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌃 Evening                32860 commits       █████████░░░░░░░░░░░░░░░░   35.15 % 
+🌙 Night                  17994 commits       █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   13046 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
+Tuesday                  13090 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+Wednesday                13234 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.16 % 
+Thursday                 13016 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Friday                   13074 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Saturday                 13619 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Sunday                   14402 commits       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Kolkata
+
+💬 Programming Languages: 
+Other                    18 hrs 43 mins      █████████████████████████   99.29 % 
+CSS                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Jupyter Notebook         0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔥 Editors: 
+Chrome                   16 hrs 59 mins      ███████████████████████░░   90.14 % 
+Unknown Editor           1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.86 % 
+
+🐱‍💻 Projects: 
+jaithanyaS               5 hrs 26 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
+mvw-dpex-rgs             5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   27.90 % 
+vtq-irda-cud             3 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
+node-gyp                 3 hrs 27 mins       █████░░░░░░░░░░░░░░░░░░░░   18.33 % 
+JayantGoel001.github.io  46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.13 % 
+
+💻 Operating System: 
+Windows                  18 hrs 51 mins      █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in Jupyter Notebook** 
+
+```text
+C++                      20 repos            ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+JavaScript               11 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Dockerfile               2 repos             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+TeX                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+R                        1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+```
+
+
+
+
+ Last Updated on 19/11/2024 02:48:08 UTC
+<!--END_SECTION:waka-->
+
+<p align="center">
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+</p>
+
+#
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ataulmohin900&show_icons=true&locale=en&layout=compact" alt="ataulmohin900" /></p>
 
