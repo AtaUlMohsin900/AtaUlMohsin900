@@ -45,10 +45,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataulmohin900&" alt="ataulmohin900" /></p>
 <br/>
 <br/>
-<!-- <p align="center">
+<p align="center">
   <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
   <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
-</p> -->
+</p>
 
 #
 
