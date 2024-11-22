@@ -61,7 +61,7 @@
   <a href="https://www.instagram.com/" target="_blank">
     <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
   </a>
-  <a href="https://twitter.com/" target="_blank">
+  <a href="https://twitter.com/https://twitter.com/atamohsin900" target="_blank">
     <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/">
