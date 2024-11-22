@@ -82,7 +82,7 @@
     <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
   </a>
   <a href="https://dev.to/jayantgoel001">
-    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"/></code>
+    <code><img src="SVG/dev.svg" alt="Ataul Mohsin's DEV Profile" height="62" width="62"/></code>
   </a>     
 </p>
 <br/>
