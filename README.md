@@ -61,9 +61,9 @@
   <a href="https://www.instagram.com/" target="_blank">
     <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
   </a>
-  <a href="https://twitter.com/https://twitter.com/atamohsin900" target="_blank">
-    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-  </a>
+    <a href="https://twitter.com/JayantGoel001" target="_blank">
+      <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
+    </a>
   <a href="https://dev.to/">
     <code><img src="SVG/dev.svg" alt="Ataul Mohsin's DEV Profile" height="62" width="62"/></code>
   </a>     
