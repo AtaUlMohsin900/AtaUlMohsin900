@@ -75,7 +75,7 @@
   <a href="https://fb.com/ataulmohin" target="_blank">
     <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
   </a>
-  <a href="https://instagram.com/ataulmohsin" target="_blank">
+  <a href="https://instagram.com/" target="_blank">
     <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/atamohsin900" target="_blank">
