@@ -75,7 +75,7 @@
   <a href="https://www.facebook.com/jayantgoel001/" target="_blank">
     <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
+  <a href="https://instagram.com/ataulmohsin" target="_blank">
     <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
   </a>
   <a href="https://twitter.com/JayantGoel001" target="_blank">
