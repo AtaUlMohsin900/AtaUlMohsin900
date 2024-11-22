@@ -45,6 +45,23 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataulmohin900&" alt="ataulmohin900" /></p>
 <br/>
 <br/>
+<p align="center">
+  <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
+  <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
+</p>
+
+#
+
+<p align="center">
+  <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
+  <h4 align="center"><code>📊 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜</code></h4>
+</p>
+
+<p align="center">
+  <img width="75%" src="metrics.svg"/>
+  <img src="metrics.detailed.svg" width="75%"/>
+</p>
+
 <h1>
   Connect With Me
   <img src="GIF/Handshake.gif" height="25px"/>
@@ -52,42 +69,42 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/ata-ul-mohsin-khalid-767159215/" target="_blank">
+  <a href="https://www.linkedin.com/in/JayantGoel001/" target="_blank">
     <code><img height="60" width="60" src="SVG/linkedin.svg"/></code>
   </a>
-  <a href="https://www.facebook.com" target="_blank">
+  <a href="https://www.facebook.com/jayantgoel001/" target="_blank">
     <code><img  height="60" width="60" src="SVG/facebook.svg"/></code>
   </a>
-  <a href="https://www.instagram.com/" target="_blank">
+  <a href="https://www.instagram.com/jayantgoel001/" target="_blank">
     <code><img height="60" width="60" src="SVG/instagram.svg"/></code>
   </a>
-    <a href="https://twitter.com/JayantGoel001" target="_blank">
-      <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
-    </a>
-  <a href="https://dev.to/">
-    <code><img src="SVG/dev.svg" alt="Ataul Mohsin's DEV Profile" height="62" width="62"/></code>
+  <a href="https://twitter.com/JayantGoel001" target="_blank">
+    <code><img height="60" width="60" src="SVG/twitter.svg"/></code>
+  </a>
+  <a href="https://dev.to/jayantgoel001">
+    <code><img src="SVG/dev.svg" alt="Jayant Goel's DEV Profile" height="62" width="62"/></code>
   </a>     
 </p>
 <br/>
 
 <p align="center">
-  <a href="https://www.hackerrank.com/" target="_blank">
+  <a href="https://www.hackerrank.com/JayantGoel001/" target="_blank">
     <code><img height="60" width="60" src="WEBP/hr.webp"/></code>
   </a>
 
-  <a href="https://ataulmohsin.vercel.app/" target="_blank">
+  <a href="http://www.codeforces.com/profile/JayantGoel001" target="_blank">
     <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
   </a>
 
-  <a href="https://ataulmohsin.vercel.app/" target="_blank">
+  <a href="https://www.hackerearth.com/@jayantgoel001" target="_blank">
     <code><img height="60" width="60" src="SVG/he.svg"/></code>
   </a>
 
-  <a href="https://ataulmohsin.vercel.app/" target="_blank">
+  <a href="https://www.codechef.com/users/jayantgoel001" target="_blank">
     <code><img height="60" width="60" src="SVG/cc.svg"/></code>
   </a>
   
-  <a href="https://ataulmohsin.vercel.app/" target="_blank">
+  <a href="https://leetcode.com/JayantGoel001/" target="_blank">
     <code><img height="60" width="60" src="WEBP/lc.webp"/></code>
   </a>
 </p>
