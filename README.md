@@ -131,12 +131,12 @@ R                        1 repo              ░░░░░░░░░░░�
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataulmohin900&" alt="ataulmohin900" /></p> -->
 <br/>
 <br/>
-<p align="center">
+<!-- <p align="center">
   <img align="center" width="400px" height="400px" src="https://wakatime.com/share/@JayantGoel001/2be1608b-10ea-42dd-b1f5-80ed001062b1.svg"/>
   <img align="center" height="400px" width="400px" src="https://wakatime.com/share/@JayantGoel001/c7e94976-73a4-4959-a081-4ca2e1126556.svg" />
 </p>
 
-#
+# -->
 
 <p align="center">
   <img height="50" width="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg"/>  
