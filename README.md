@@ -96,11 +96,11 @@
     <code><img height="60" width="60" src="WEBP/cf.webp"/></code>
   </a>
 
-  <a href="https://www.hackerearth.com/" target="_blank">
+  <a href="https://www.hackerearth.com/@ataulmohsin900/" target="_blank">
     <code><img height="60" width="60" src="SVG/he.svg"/></code>
   </a>
 
-  <a href="https://www.codechef.com/" target="_blank">
+  <a href="https://www.codechef.com/users/sunny_vibe_98" target="_blank">
     <code><img height="60" width="60" src="SVG/cc.svg"/></code>
   </a>
   
