@@ -3,10 +3,11 @@
 <h1 align="center">Hey<span><img src="GIF/Hi.gif" width="40px" /></span> I'm Ataul Mohsin </h1>
 <h3 align="center"> I am an Engineering Leader and a Fullstack Developer based in PK.</h3>
 <p>I have over 02 years of experience working mostly with startups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.</p>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-</br>
-</br>
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG">
 
+</br>
+</br>
+<!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataulmohin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohin900" /> </p>
 
