@@ -7,8 +7,6 @@
 
 </br>
 </br>
-<!-- <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p> -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataulmohin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohin900" /> </p>
 
 - 📫 How to reach me ****
@@ -101,7 +99,7 @@ Sunday                     812 commits       ████░░░░░░░�
 ```text
 🕑︎ Time Zone: Asia/Karachi
 
-💬 Programming Languages: 
+💬 Mostly works on: 
 JavaScript               22 hrs 03 mins      █████████████████████████   99.29 % 
 GitLab                   2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 Jenkins                  27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
