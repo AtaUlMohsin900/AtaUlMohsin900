@@ -86,8 +86,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ataulmohsin900&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![Ataul Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ataulmohsin900&hide_border=true&show_icons=true&bg_color=red&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=red)
-
+![Ataul Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ataulmohsin900&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ataulmohsin900&show_icons=true&locale=en" alt="ataulmohsin900" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataulmohsin900&" alt="ataulmohsin900" /></p> -->
@@ -111,9 +110,9 @@
 <br>
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C643%20hrs%2025%20mins-color=9e9e9e)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C643%20hrs%2025%20mins-color=red)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.9%20thousand%20lines%20of%20code-color=9e9e9e)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.9%20thousand%20lines%20of%20code-color=red)
 
 **🐱 My GitHub Data** 
 
