@@ -93,7 +93,7 @@
 
 <!--START_SECTION:waka-->
 
-![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg)
+<!-- ![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](github-contribution-grid-snake.svg) -->
 
 <br/>
 
@@ -110,9 +110,9 @@
 <br>
 <!--START_SECTION:waka-->
 
-![Code Time](http://img.shields.io/badge/Code%20Time-6%2C643%20hrs%2025%20mins-red)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%2C643%20hrs%2025%20mins-color=151515)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.9%20thousand%20lines%20of%20code-red)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.9%20thousand%20lines%20of%20code-color=151515)
 
 **🐱 My GitHub Data** 
 
