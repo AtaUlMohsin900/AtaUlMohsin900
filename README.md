@@ -52,7 +52,7 @@
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ataulmohsin900&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 ![Ataul Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ataulmohsin900&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ataulmohsin900&show_icons=true&locale=en" alt="ataulmohsin900" /></p> -->
 
