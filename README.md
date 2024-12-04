@@ -49,8 +49,8 @@
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 <p align="center">
-  <a href="https://github.com/AtUulMohsin900">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataulmohsin&theme=radical" alt="Ataul Mohsin's GitHub Contribution"/>
+  <a href="https://github.com/AtUlMohsin900">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataulmohsin900&theme=radical" alt="Ataul Mohsin's GitHub Contribution"/>
   </a>
 </p>
 
