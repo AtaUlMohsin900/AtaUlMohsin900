@@ -57,7 +57,7 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ataulmohsin900&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
 ![Ataul Mohsin's GitHub stats](https://github-readme-stats.vercel.app/api?username=ataulmohsin900&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-<a href="https://github.com/ataulmohsin900"><img alt="Ataul Mohsin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ataulmohsin900&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+<a href="https://github.com/AtaUlMohsin900"><img alt="Ataul Mohsin's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ataulmohsin900&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ataulmohsin900&show_icons=true&locale=en" alt="ataulmohsin900" /></p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ataulmohsin900&" alt="ataulmohsin900" /></p> -->
