@@ -48,6 +48,11 @@
 <br>
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
+<p align="center">
+  <a href="https://github.com/AtUulMohsin900">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ataulmohsin&theme=radical" alt="Ataul Mohsin's GitHub Contribution"/>
+  </a>
+</p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ataulmohsin900&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
