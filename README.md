@@ -249,4 +249,4 @@ C                         1  repo            ░░░░░░░░░░░�
 
 #
 
-![footer](WEBP/footer.webp)
+![footer](/WEBP/footer.webp)
