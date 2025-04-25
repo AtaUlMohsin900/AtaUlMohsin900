@@ -1,5 +1,7 @@
 ![](https://github.com/AtaUlMohsin900/AtaUlMohsin900/blob/master/software-development%20-%20Copy.png)
+
 ###
+
 <h1 align="center">Hey<span><img src="GIF/Hi.gif" width="40px" /></span> I'm Ataul Mohsin </h1>
 <h3 align="center"> I am an Engineering Leader and a Fullstack Developer based in PK.</h3>
 <p>I have over 02 years of experience working mostly with startups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.</p>
@@ -31,7 +33,7 @@
 <!--- -- Skills Section ------------------------------------------------------------------------------------------------------------------------------------ -->
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
 
-# Languages & Tools  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30"> 
+# Languages & Tools  <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="30">
 
 | Category        | Skills        |
 |-----------------|---------------|
@@ -45,6 +47,7 @@
 | Design Tools    | <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>  |
 | Learning | <a href="https://www.coursera.org/user/69e4ae79233b116200019fb3f9111083"><img src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" /></a> <img src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860" /> <img src="https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white" /> |
 | Operating System | <a href="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"><img src="https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white" /></a> <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" /> <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" /> |  
+
 <br>
 
 <!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
@@ -82,19 +85,19 @@
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-60.9%20thousand%20lines%20of%20code-color=red) -->
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 20.2 MB Used in GitHub's Storage 
- > 
+> 📦 20.2 MB Used in GitHub's Storage
+ >
 > 🏆 101 Contributions in the Year 2024
- > 
+ >
 > 💼 Opted to Hire
- > 
-> 📜 46 Public Repositories 
- > 
-> 🔑 4 Private Repositories 
- > 
-**I'm a Early Morning ⛅** 
+ >
+> 📜 46 Public Repositories
+ >
+> 🔑 4 Private Repositories
+ >
+**I'm a Early Morning ⛅**
 
 ```text
 🌞 Morning                   12 commits       ████████░░░░░░░░░░░░░░░░░   34.02 % 
@@ -102,7 +105,8 @@
 🌃 Evening                   03 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 🌙 Night                     16 commits       ██████████░░░░░░░░░░░░░░░   40.25 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+
+📅 **I'm Most Productive on Sunday**
 
 ```text
 Monday                      46 commits       ███░░░░░░░░░░░░░░░░░░░░░░   13.96 % 
@@ -114,8 +118,7 @@ Saturday                   619 commits       ████░░░░░░░�
 Sunday                     712 commits       ████░░░░░░░░░░░░░░░░░░░░░   14.41 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Karachi
@@ -145,7 +148,7 @@ Linux                     05 hrs 15 mins      ████░░░░░░░�
 
 ```
 
-**I Mostly Code in Jupyter Notebook** 
+**I Mostly Code in Jupyter Notebook**
 
 ```text
 JavaScript               50 repos            █████░░░░░░░░░░░░░░░░░░░░   43.70 % 
@@ -153,11 +156,8 @@ TypeScript               11 repos            ██░░░░░░░░░�
 HTML                      6  repo            █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 % 
 Python                    2  repos           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 C                         1  repo            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+C#/.NET                   1  repo            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 % 
 ```
-
-
-
-
 
 <!--END_SECTION:waka-->
 
@@ -213,7 +213,7 @@ C                         1  repo            ░░░░░░░░░░░�
   </a>
   <a href="#">
     <code><img src="SVG/dev.svg" alt="Ataul Mohsin's DEV Profile" height="62" width="62"/></code>
-  </a>     
+  </a>
 </p>
 <br/>
 
@@ -244,7 +244,7 @@ C                         1  repo            ░░░░░░░░░░░�
 
 <div align="center">
 
-### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜!
+### 𝚂𝚑𝚘𝚠 𝚜𝚘𝚖𝚎 ❤️ 𝚋𝚢 𝚜𝚝𝚊𝚛𝚛𝚒𝚗𝚐 𝚜𝚘𝚖𝚎 𝚘𝚏 𝚝𝚑𝚎 𝚛𝚎𝚙𝚘𝚜𝚒𝚝𝚘𝚛𝚒𝚎𝚜
 
 </div>
 
