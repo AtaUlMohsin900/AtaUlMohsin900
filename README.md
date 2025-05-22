@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey<span><img src="GIF/Hi.gif" width="40px" /></span> I'm Ataul Mohsin </h1>
 <h3 align="center"> I am an Engineering Leader and a Fullstack Developer working in ZTBL.</h3>
-<p>I have over 02 years of experience working mostly with startups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.</p>
+<p>I have over 03 years of experience working mostly with startups. I am a seasoned leader, having led teams of all sizes and shapes with a strong focus on building high-performing teams and delivering high-quality products.</p>
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmpmbHp0OWk3b2phMGRyZmpudGJ6YzlwMjA5cnoyMmZubDY5YmZxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/TFPdmm3rdzeZ0kP3zG/giphy.gif">
 
 </br>
@@ -101,8 +101,8 @@
 **I'm a Early Morning ⛅**
 
 ```text
-🌞 Morning                   12 commits       ████████░░░░░░░░░░░░░░░░░   34.02 % 
-🌆 Daytime                   10 commits       ███████░░░░░░░░░░░░░░░░░░   27.58 % 
+🌞 Morning                   01 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+🌆 Daytime                   10 commits       ██░░░░░░░░░░░░░░░░░   27.58 % 
 🌃 Evening                   03 commits       ██░░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
 🌙 Night                     16 commits       ██████████░░░░░░░░░░░░░░░   40.25 % 
 ```
