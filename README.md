@@ -1,4 +1,4 @@
-![](https://github.com/AtaUlMohsin900/AtaUlMohsin900/blob/master/banner%20-%20.png)
+![](https://github.com/AtaUlMohsin900/AtaUlMohsin900/blob/master/banner%20.png)
 
 ###
 
