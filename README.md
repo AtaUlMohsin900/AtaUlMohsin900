@@ -1,4 +1,4 @@
-<a href="#"><p align="center"><img src="https://github.com/AtaUlMohsin900/AtaUlMohsin900/blob/master/banner%20-%20.png"></p></a>
+![Profile Banner](https://raw.githubusercontent.com/AtaUlMohsin900/AtaUlMohsin900/master/banner%20-%20.png)
 
 ###
 
