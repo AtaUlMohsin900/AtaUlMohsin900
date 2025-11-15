@@ -27,7 +27,7 @@
 <a href="https://fb.com/ataulmohin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ataulmohin" height="30" width="40" /></a>
 <a href="https://www.instagram.com/ataulmohsinkhalid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ataulmohsin" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@ataulmohsin4929" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ataulmohsin900" height="30" width="40" /></a>
-<a href="https://discord.gg/ataulmohsin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ataulmohsin" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me/1221375182573277205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ataulmohsin" height="30" width="40" /></a>
 </p>
 
 <!--- ------------------------------------------------------------------------------------------------------------------------------------------------------ -->
