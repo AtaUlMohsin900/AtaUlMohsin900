@@ -241,7 +241,6 @@ C#/.NET                   1  repo            ░░░░░░░░░░░�
 </p>
 
 <br/>
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 <br/>
 
 <div align="center">
@@ -256,3 +255,6 @@ C#/.NET                   1  repo            ░░░░░░░░░░░�
 #
 
 ![footer](/WEBP/footer.webp)
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br>
+<br>
