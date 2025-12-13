@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ataulmohin900&label=Profile%20views&color=0e75b6&style=flat" alt="ataulmohin900" /> </p>
 
 - 📫 How to reach me ****
-- 🏛  𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 in **ZTBL**
+- 🏛  𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 in **ZTBL and Learning Certified Information Systems Auditor® (CISA®)**
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Openshift & Kubernetes.**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝙿𝚛𝚊𝚌𝚝𝚒𝚌𝚎 𝚘𝚗 **𝙳𝚎𝚟𝙾𝚙𝚜 tool practices with AI configurations.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **DevOps projects & AI 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗t.**
