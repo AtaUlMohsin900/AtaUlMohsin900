@@ -14,7 +14,7 @@
 - 📫 How to reach me ****
 - 🏛  𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 in **ZTBL and Learning Certified Information Systems Auditor® (CISA®)**
 - 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Openshift & Kubernetes.**
-- 🌱 𝙸’𝚖 reciently completed  **IBM DevOps and Software Engineering.**
+- 🌱 𝙸’𝚖 reciently completed  **IBM DevOps and Software Engineering Professional Certification course.**
 - 👯 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚎 𝚘𝚗 **DevOps projects & AI 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚖𝚎𝚗t.**
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://ataulmohsin.vercel.app/).
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜.**
